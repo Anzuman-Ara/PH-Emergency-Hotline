@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "16445",
             category: "NGO",
             icon: "brac.png",
-            color: "rgba(253, 229, 229, 1)" 
+            color: "rgba(209, 245, 209, 1)" 
         },
         {
             name: "Bangladesh Railway Helpline",
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "163",
             category: "Travel",
             icon: "Bangladesh-Railway.png",
-            color: "rgba(253, 229, 229, 1)" 
+            color: "rgba(209, 245, 209, 1)" 
         }
     ];
 
@@ -191,5 +191,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
 
