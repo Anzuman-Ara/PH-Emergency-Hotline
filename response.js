@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "National Emergency",
             number: "999",
             category: "All",
-            icon: "assets/emergency.png",
+            icon: "emergency.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Police",
             number: "999",
             category: "Police",
-            icon: "assets/police.png",
+            icon: "police.png",
             color: "rgba(222, 230, 251, 1)" 
         },
         {
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Fire Service",
             number: "999",
             category: "Fire",
-            icon: "assets/fire-service.png",
+            icon: "fire-service.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Health",
             number: "1994-999999",
             category: "Health",
-            icon: "assets/ambulance.png",
+            icon: "ambulance.png",
             color: "rgba(209, 245, 209, 1)" 
         },
         {
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Women & Child Helpline",
             number: "109",
             category: "Help",
-            icon: "assets/emergency.png",
+            icon: "emergency.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Anti-Corruption",
             number: "106",
             category: "Govt.",
-            icon: "assets/emergency.png",
+            icon: "emergency.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Electricity Outage",
             number: "16216",
             category: "Electricity",
-            icon: "assets/emergency.png",
+            icon: "emergency.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Brac",
             number: "16445",
             category: "NGO",
-            icon: "assets/emergency.png",
+            icon: "emergency.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Bangladesh Railway",
             number: "163",
             category: "Travel",
-            icon: "assets/emergency.png",
+            icon: "Bangladesh-Railway.png",
             color: "rgba(253, 229, 229, 1)" 
         }
     ];
@@ -191,3 +191,4 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
