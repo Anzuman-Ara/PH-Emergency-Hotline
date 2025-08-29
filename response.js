@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "999",
             category: "All",
             icon: "assets/emergency.png",
-            color: "rgba(253, 229, 229, 1)" // Green
+            color: "rgba(253, 229, 229, 1)" 
         },
         {
             name: "Police Helpline Number",
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "999",
             category: "Police",
             icon: "assets/police.png",
-            color: "rgba(222, 230, 251, 1)" // Blue
+            color: "rgba(222, 230, 251, 1)" 
         },
         {
             name: "Fire Service Number",
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "999",
             category: "Fire",
             icon: "assets/fire-service.png",
-            color: "rgba(253, 229, 229, 1)" // Red
+            color: "rgba(253, 229, 229, 1)" 
         },
         {
             name: "Ambulance Service",
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "1994-999999",
             category: "Health",
             icon: "assets/ambulance.png",
-            color: "rgba(209, 245, 209, 1)" // Red
+            color: "rgba(209, 245, 209, 1)" 
         },
         {
             name: "Women & Child Helpline",
@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "109",
             category: "Help",
             icon: "assets/emergency.png",
-            color: "rgba(253, 229, 229, 1)" // Green
+            color: "rgba(253, 229, 229, 1)" 
         },
         {
             name: "Anti-Corruption Helpline",
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "106",
             category: "Govt.",
             icon: "assets/emergency.png",
-            color: "rgba(253, 229, 229, 1)" // Yellow
+            color: "rgba(253, 229, 229, 1)" 
         },
         {
             name: "Electricity Helpline",
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "16216",
             category: "Electricity",
             icon: "assets/emergency.png",
-            color: "rgba(253, 229, 229, 1)" // Blue
+            color: "rgba(253, 229, 229, 1)" 
         },
         {
             name: "Brac Helpline",
@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "16445",
             category: "NGO",
             icon: "assets/emergency.png",
-            color: "rgba(253, 229, 229, 1)" // Green
+            color: "rgba(253, 229, 229, 1)" 
         },
         {
             name: "Bangladesh Railway Helpline",
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
             number: "163",
             category: "Travel",
             icon: "assets/emergency.png",
-            color: "rgba(253, 229, 229, 1)" // Green
+            color: "rgba(253, 229, 229, 1)" 
         }
     ];
 
@@ -189,4 +189,5 @@ document.addEventListener('DOMContentLoaded', () => {
     clearHistoryBtn.addEventListener('click', () => {
         historyList.innerHTML = '';
     });
+
 });
