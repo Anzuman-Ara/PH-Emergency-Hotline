@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
             englishName: "Brac",
             number: "16445",
             category: "NGO",
-            icon: "emergency.png",
+            icon: "brac.png",
             color: "rgba(253, 229, 229, 1)" 
         },
         {
@@ -191,4 +191,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
+
 
